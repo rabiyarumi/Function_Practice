@@ -10,6 +10,7 @@ const money = 87;
 doubleIt(money); // akhane money k double kore output dekhabe
 
 //--------------------------------------
+//argument k variale a rakha || parametar k variable a rekhe call kora
 function defference (num1, num2){
     const dif = num1 - num2;
     console.log(num1, num2, "difference is", dif);
@@ -17,3 +18,4 @@ function defference (num1, num2){
 const myAge = 20;
 const fatherAge = 67;
 defference(fatherAge, myAge);
+ 
